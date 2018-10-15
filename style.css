@@ -1,0 +1,17 @@
+div{
+	display: inline-block;
+	display: flex;
+	text-align: center;
+
+	margin:10px;
+	padding-right: 30px;
+}
+.card-header{
+	display: flex;
+	text-align: center;
+}
+button{
+	
+	display: flex;
+	text-align: center;
+}
